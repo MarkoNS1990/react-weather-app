@@ -24,8 +24,8 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.container {
+  width: 50% !important;
 }
 
 @keyframes App-logo-spin {
